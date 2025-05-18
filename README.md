@@ -53,32 +53,21 @@ Based on the results, [insert best model here] achieved the highest accuracy on 
 # 📦 Requirements
 Install dependencies using:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Typical libraries used:
-
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-scikit-learn
+  * pandas
+  * numpy
+  * matplotlib
+  * seaborn
+  * scikit-learn
 
 # 🚀 How to Run
-Clone this repository
-
-Open the Jupyter Notebook: Heart Disease Prediction Using ML.ipynb
-
-Run each cell sequentially
+  * Clone this repository
+  * Open the Jupyter Notebook: Heart Disease Prediction Using ML.ipynb
+  * Run each cell sequentially
 
 # 📈 Future Improvements
-Hyperparameter tuning using GridSearchCV
-
-Deployment via Flask or Streamlit
-
-Using more advanced ML techniques or deep learning
+  * Hyperparameter tuning using GridSearchCV
+  * Deployment via Flask or Streamlit
+  * Using more advanced ML techniques or deep learning
